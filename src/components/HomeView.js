@@ -4,7 +4,7 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { Button } from 'antd-mobile';
 
-export default class TestView extends React.Component {
+export default class HomeView extends React.Component {
   static navigationOptions = {
     title: 'Home'
   }
